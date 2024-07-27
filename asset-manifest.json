@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f906b21c.css",
+    "main.js": "/portfolio/static/js/main.ec145afc.js",
+    "static/media/Medical.png": "/portfolio/static/media/Medical.2461d1d183aa7f8860b9.png",
+    "static/media/shubhamhack.png": "/portfolio/static/media/shubhamhack.56d8bca6e705427d0a24.png",
+    "static/media/atom.png": "/portfolio/static/media/atom.17e5cb984343d1346ebd.png",
+    "static/media/java.png": "/portfolio/static/media/java.f4ea765878d6e68edefd.png",
+    "static/media/letter-c.png": "/portfolio/static/media/letter-c.ca323b325816f40cf155.png",
+    "static/media/php.png": "/portfolio/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/database.png": "/portfolio/static/media/database.96af83e68e3b32fb2dd7.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/c-.png": "/portfolio/static/media/c-.24a8f93854ab092f17a7.png",
+    "static/media/java-script.png": "/portfolio/static/media/java-script.78206ba65e01c7d57080.png",
+    "static/media/html-5.png": "/portfolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css-3.png": "/portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "index.html": "/portfolio/index.html",
+    "main.f906b21c.css.map": "/portfolio/static/css/main.f906b21c.css.map",
+    "main.ec145afc.js.map": "/portfolio/static/js/main.ec145afc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f906b21c.css",
+    "static/js/main.ec145afc.js"
+  ]
+}
